@@ -1,4 +1,4 @@
-# Time-series-lab
+# Time Series Lab
 Experiments with time series
 
 
@@ -7,8 +7,6 @@ Experiments with time series
 Paper: [Beyond Model-Centric Prediction—Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776)
 
 Notebook: [agentic-forecasting-simple.ipynb](agentic-forecasting-simple.ipynb)
-
-This repository contains a minimal implementation of the ideas presented in the paper. 
 
 ### Overview
 
@@ -30,5 +28,9 @@ While this *is* fully functional, many extensions are possible:
 ## Multi-layer Stack Ensembles for Time Series Forecasting
 
 Paper: [Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350)
+
+Notebook: [mls-ensembles.ipynb](mls-ensembles.ipynb)
+
+### Overview
 
 
