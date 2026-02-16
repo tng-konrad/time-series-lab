@@ -27,3 +27,9 @@ While this *is* fully functional, many extensions are possible:
 - **Multimodal Perception**: Providing the agent with visual plots of the series to improve its analysis of trends and breaks.
 - **Long-term Memory**: Allowing the agent to learn from multiple forecasting tasks over time.
 
+
+## Multi-layer Stack Ensembles for Time Series Forecasting
+
+Paper: [Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350)
+
+
