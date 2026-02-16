@@ -1,7 +1,7 @@
 [project]
-name = "agentic-forecasting"
+name = "time-series-lab"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["numpy", "matplotlib", "random", "json", "statsmodels", "google", "dotenv"]
+dependencies = ["numpy", "matplotlib", "random", "json", "statsmodels", "google-genai", "dotenv"]
