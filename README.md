@@ -7,11 +7,11 @@ Experiments with time series
 
 Paper: [Beyond Model-Centric Prediction—Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776)
 
-Notebook: agentic-forecasting-simple.ipynb
+Notebook: [agentic-forecasting-simple.ipynb](agentic-forecasting-simple.ipynb)
 
 This repository contains a minimal implementation of the ideas presented in the paper. 
 
-## Overview
+### Overview
 
 The notebook demonstrates a simplified setting where an AI agent manages the forecasting workflow:
 1.  **Perception**: The agent is provided with a synthetic time series containing a structural break.
@@ -20,9 +20,10 @@ The notebook demonstrates a simplified setting where an AI agent manages the for
 
 This "minimal setting" implementation validates the core two-cycle agentic workflow.
 
-## Potential Extensions
+### Potential Extensions
 
 While this *is* fully functional, many extensions are possible:
 - **Expanded Toolkit**: Adding more complex models (ARIMA, Transformers, boosted trees and whatnot) to the agent's available tools.
 - **Multimodal Perception**: Providing the agent with visual plots of the series to improve its analysis of trends and breaks.
 - **Long-term Memory**: Allowing the agent to learn from multiple forecasting tasks over time.
+
