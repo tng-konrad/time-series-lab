@@ -1,6 +1,5 @@
-# time-series-lab
+# Time-series-lab
 Experiments with time series
-
 
 
 ## Agentic Time Series Forecasting (ATSF)
