@@ -1,6 +1,5 @@
 # Time Series Lab
-Experiments with time series
-
+Experiments with time series - barebone implementations of ideas from papers
 
 ## Agentic Time Series Forecasting (ATSF)
 
@@ -19,7 +18,6 @@ This "minimal setting" implementation validates the core two-cycle agentic workf
 
 ### Potential Extensions
 
-While this *is* fully functional, many extensions are possible:
 - **Expanded Toolkit**: Adding more complex models (ARIMA, Transformers, boosted trees and whatnot) to the agent's available tools.
 - **Multimodal Perception**: Providing the agent with visual plots of the series to improve its analysis of trends and breaks.
 - **Long-term Memory**: Allowing the agent to learn from multiple forecasting tasks over time.
