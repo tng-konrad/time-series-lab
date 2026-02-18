@@ -31,13 +31,6 @@ Notebook: [mls-ensembles.ipynb](mls-ensembles.ipynb)
 
 ### Overview
 
-
-## Multi-layer Stack Ensembles for Time Series Forecasting
-
-Paper: [Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350)
-
-Notebook: [mls-ensembles.ipynb](mls-ensembles.ipynb)
-
 The notebook implements a hierarchical stacking framework that learns optimal combinations of forecasters:
 
 1. **Level 1 (Base Models)**: Trains a diverse set of "weak" learners, including Seasonal Naive, Linear Regression, and Multi-Layer Perceptrons (MLP). It uses time-series cross-validation to generate Out-of-Fold (OOF) predictions, ensuring the stacker sees "unseen" data patterns.
