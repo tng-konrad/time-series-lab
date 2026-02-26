@@ -177,7 +177,7 @@ def plot_t_sne_embeddings(
 
     # T-SNE
     tsne = TSNE(n_components=2, perplexity=perplexity,
-                random_state=42, n_iter=500, metric="euclidean")
+                random_state=42, max_iter=500, metric="euclidean")
     embs_2d = tsne.fit_transform(embeddings)
 
     # Plot

@@ -683,7 +683,7 @@ def main():
 
 
     plot_t_sne_embeddings(
-        model, val_loader,
+        model, val_loader, DEVICE,
         output_path="tsne_embeddings.png",
         n_samples=1500
     )
