@@ -1,5 +1,4 @@
-# visualize.py — Enhanced visualization utilities for HALT (compatible with corrected compute_feature_importance)
-
+# visualize.py — Enhanced visualization utilities for HALT
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
