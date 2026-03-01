@@ -29,7 +29,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence, pad_se
 from torch.utils.data import DataLoader, Dataset, random_split
 
 
-from visualise import (plot_feature_importance, plot_t_sne_embeddings,
+from haltvisualise import (plot_feature_importance, plot_t_sne_embeddings,
                 plot_feature_correlation, plot_sensitivity_analysis)
 
 
